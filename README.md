@@ -1,7 +1,7 @@
 👋   Hi, I’m @diegoescala
 
 I've been writing software for a long time and I still find it genuinely fun.
-I tend to go deep — whether that's systems programming in C++, functional 
+I tend to go deep, whether that's systems programming in C++, functional 
 design in Clojure, or building full products from backend to mobile UI.
 
 ## Things I've built
@@ -18,4 +18,4 @@ design in Clojure, or building full products from backend to mobile UI.
 ## Open to
 
 Collaboration, interesting problems, and good conversations.
-Feel free to open an issue or reach out — I don't bite.
+Feel free to open an issue or reach out. I don't bite.
